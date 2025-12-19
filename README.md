@@ -3,7 +3,7 @@
 Minimal Spring Boot REST API providing CRUD operations for a `Book` entity.
 
 ## Requirements
-- Java 21
+- Java 21 (set `JAVA_HOME` accordingly)
 - Maven
 
 ## Build
